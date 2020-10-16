@@ -43,9 +43,7 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "react": "^16.0.0",
-    "@types/pdfmake": "^0.1.15",
-    "pdfmake": "^0.1.68"
+    "react": "^16.0.0"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -80,5 +78,9 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "dependencies": {
+    "@types/pdfmake": "^0.1.15",
+    "pdfmake": "^0.1.68"
+  }
 }
