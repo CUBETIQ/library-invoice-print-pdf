@@ -1,10 +1,10 @@
 {
   "name": "@cubetiq/invoice-print",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Invoice Print80m",
   "author": "Chantha Suon",
   "license": "MIT",
-  "repository": "https://git.cubetiqs.com/chanthasuon/lib-invoice-print.git",
+  "repository": "https://git.cubetiqs.com/CUBETIQ/lib-invoice-print.git",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "module": "dist/index.modern.js",
@@ -43,7 +43,9 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "react": "^16.0.0"
+    "react": "^16.0.0",
+    "@types/pdfmake": "^0.1.15",
+    "pdfmake": "^0.1.68"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -78,9 +80,5 @@
   },
   "files": [
     "dist"
-  ],
-  "dependencies": {
-    "@types/pdfmake": "^0.1.15",
-    "pdfmake": "^0.1.68"
-  }
+  ]
 }
