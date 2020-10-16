@@ -12,6 +12,23 @@
   "engines": {
     "node": ">=10"
   },
+  "contributors": [
+    {
+      "email": "chanthasuon@cubetiqs.com",
+      "name": "@chanthasuon",
+      "url": "https://git.cubetiqs.com/chanthasuon"
+    },
+    {
+      "email": "s.long@cubetiqs.com",
+      "name": "@s.long",
+      "url": "https://git.cubetiqs.com/s.long"
+    },
+    {
+      "email": "sombochea@cubetiqs.com",
+      "name": "@SomboChea",
+      "url": "https://git.cubetiqs.com/sombochea"
+    }
+  ],
   "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",
     "start": "microbundle-crl watch --no-compress --format modern,cjs",
