@@ -1,6 +1,6 @@
 # @cubetiq/invoice-print
 
-> Invoice Print80m
+> Invoice Print 80mn using pdfmake
 
 [![NPM](https://img.shields.io/npm/v/@cubetiq/invoice-print.svg)](https://www.npmjs.com/package/@cubetiq/invoice-print) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
@@ -40,4 +40,4 @@ Project's repository: [Library Invoice Print](https://git.cubetiqs.com/CUBETIQ/l
 ## License
 @CUBETIQ
 
-MIT © [Chantha Suon](https://github.com/Chantha Suon)
+MIT © [Chantha Suon](https://git.cubetiqs.com/chanthasuon)
