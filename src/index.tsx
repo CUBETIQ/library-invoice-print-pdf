@@ -9,6 +9,6 @@ export const ExampleComponent = ({ text }: Props) => {
   return <div className={styles.test}>Example Component: {text}</div>
 }
 
-export * from 'pdfmake/interfaces'
+// export * from 'pdfmake/interfaces'
 export * from 'pdfmake/build/pdfmake'
 export * from './invoice'
