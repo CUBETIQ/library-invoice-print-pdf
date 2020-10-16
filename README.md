@@ -10,6 +10,11 @@
 npm install --save @cubetiq/invoice-print
 ```
 
+OR Using YARN
+```bash
+yarn add @cubetiq/invoice-print
+```
+
 ## Usage
 
 ```tsx
@@ -25,6 +30,14 @@ class Example extends Component {
 }
 ```
 
+### Contributors
+Project's repository: [Library Invoice Print](https://git.cubetiqs.com/CUBETIQ/lib-invoice-print.git)
+- [@chanthasuon](https://git.cubetiqs.com/chanthasuon)
+- [@s.long](https://git.cubetiqs.com/s.long)
+- [@sombochea](https://git.cubetiqs.com/sombochea)
+- [@cubetiq](https://git.cubetiqs.com/CUBETIQ)
+
 ## License
+@CUBETIQ
 
 MIT © [Chantha Suon](https://github.com/Chantha Suon)
