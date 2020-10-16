@@ -1,11 +1,12 @@
 {
   "name": "@cubetiq/invoice-print",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Invoice Print80m",
   "author": "Chantha Suon",
   "license": "MIT",
   "repository": "https://git.cubetiqs.com/chanthasuon/lib-invoice-print.git",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
   "private": false,

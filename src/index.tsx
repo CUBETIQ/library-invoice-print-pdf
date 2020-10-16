@@ -11,3 +11,4 @@ export const ExampleComponent = ({ text }: Props) => {
 
 export * from 'pdfmake/interfaces'
 export * from 'pdfmake/build/pdfmake'
+export * from './invoice'
